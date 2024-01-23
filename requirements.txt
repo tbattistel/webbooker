@@ -1,0 +1,2 @@
+selenium==4.16.0
+keyring==24.3.0
